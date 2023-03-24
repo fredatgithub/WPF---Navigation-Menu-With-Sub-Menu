@@ -1,0 +1,8 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/.vs/Navigation Menu App
+/src/Navigation Menu App/obj
+/src/Navigation Menu App/bin/Debug/net6.0-windows
